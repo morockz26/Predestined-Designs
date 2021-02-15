@@ -1,0 +1,23 @@
+{
+  "name": "predestined-designs",
+  "version": "1.0.0",
+  "description": "The predestined balloon design website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morockz26/Predestined-Designs.git"
+  },
+  "author": "Mohammed Osumah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morockz26/Predestined-Designs/issues"
+  },
+  "homepage": "https://github.com/morockz26/Predestined-Designs#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1"
+  }
+}
